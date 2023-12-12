@@ -1,0 +1,18 @@
+.btn {
+  padding: 15px;
+  background-color: rgba(68, 68, 217, 0.842);
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  border: 1px solid grey;
+  border-radius: 6px;
+}
+.delete {
+  padding: 10px 15px;
+  background-color: rgba(68, 68, 217, 0.842);
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  border: 1px solid grey;
+  border-radius: 6px;
+}
